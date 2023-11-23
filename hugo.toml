@@ -1,0 +1,9 @@
+baseURL = 'https://meatlesstrainer.github.io/'
+languageCode = 'en-us'
+title = 'Meatless Trainer'
+theme = 'hugo-tufte'
+
+[markup]
+	[markup.goldmark]
+		[markup.goldmark.render]
+			unsafe = true					
