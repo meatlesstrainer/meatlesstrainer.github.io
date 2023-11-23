@@ -1,3 +1,5 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://meatlesstrainer.github.io'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Meatless Trainer'
+description = 'The life of a vegan triathlete.'
+theme = 'mini'
