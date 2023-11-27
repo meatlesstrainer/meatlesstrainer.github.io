@@ -5,7 +5,7 @@ date: 2023-11-26
 
 past Eve and Adam's, etc. No, not that one.
 
-Before returning from the in-laws, I did 8km in Louisville/Jeff today --- from a [lovely coffee/board game shop](https://www.gameandcoffee.com/) on the Indiana side, across the [Big Four](https://en.wikipedia.org/wiki/Big_Four_Bridge), along the riverwalk and marina, and back --- in 58', a nice and easy 7'/km pace. 
+Before returning from the in-laws, I did [8km in Louisville/Jeff today](https://brouter.m11n.de/#map=16/38.2674/-85.7317/standard&lonlats=-85.743141,38.273144;-85.739574,38.266178;-85.727445,38.264502;-85.722372,38.26671;-85.720217,38.269913) --- from a [lovely coffee/board game shop](https://www.gameandcoffee.com/) on the Indiana side, across the [Big Four](https://en.wikipedia.org/wiki/Big_Four_Bridge), along the riverwalk and marina, and back --- in 58', a nice and easy 7'/km pace. 
 
 Then the hubby and I drove the six hours north, through approximately one million square miles of desolate Indiana wilderness, inhabited only by preachy billboards, crosses, and corn. I think this was considerably harder on my body than the run, which makes me really, really happy and giggly.
 
